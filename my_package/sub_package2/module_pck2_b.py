@@ -1,0 +1,1 @@
+module_pck2_b_var = 'module_pck2_b_var'
